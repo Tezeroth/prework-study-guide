@@ -11,6 +11,11 @@ footer {
     color: white;
 }
 
+/*this is a bit cheeky, change the body back if it starts getting complicated*/
+body {
+    font-family: 'Times New Roman', sans-serif;
+  }
+
 h1,
 h2 {
     text-align: center;
@@ -40,4 +45,10 @@ p {
     margin: 40px auto;
     border: 3px solid rgb(10, 10, 10);
     box-shadow: 5px 10px 5px #4e4d4d; 
+  }
+
+  .gitflow {
+    width: 60%;
+    height: auto;
+    padding: 2%;
   }
